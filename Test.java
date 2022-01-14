@@ -32,8 +32,7 @@ public class Test {
 		FileWriter fw=new FileWriter("C:\\HealthCheck_try\\testout.html");    
         fw.write(report);    
         fw.close();
-		System.out.println("pass checking");
-		System.exit(0);
+		
 		
 				
 	}
